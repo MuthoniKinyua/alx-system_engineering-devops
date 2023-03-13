@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -dm'.' -f 1,6 /etc/passwd | cut
